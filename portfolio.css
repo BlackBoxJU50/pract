@@ -148,6 +148,7 @@ padding-bottom: 80px;
     padding-left:550px ;
     padding-top: 150px;
 background-color: beige;
+padding-bottom: 200px;
 
 
  }
@@ -189,4 +190,11 @@ gap: 18px;
     background-color: black;
     color: azure;
     padding: 100px;
+ }
+
+ .showbio{
+
+font-size: larger;
+
+
  }
