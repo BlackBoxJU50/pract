@@ -1,0 +1,302 @@
+* {
+margin: 0px;
+padding: 0;
+box-sizing: border-box;
+
+}
+.navi3{
+    margin: 20px 0px;
+    padding: 30px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    
+    color: white;
+   
+    font-size: 20px;
+    }
+.navi2{
+    margin: 20px 0px;
+    padding: 20px 500px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+   gap :80px;
+    color: white;
+
+    font-size: 20px;
+    }
+.navi{
+padding: 30px;
+background-color: black;
+display: flex;
+align-items: center;
+justify-content: space-between;
+color: white;
+gap: 10px;
+font-size: 20px;
+}
+.name{
+   margin-left: 30px;
+    background-color: green;
+    color: white;
+    font-size: medium;
+    border: 2px;
+    border-radius: 80px;
+    padding: 30px;
+
+
+}
+.name:hover{
+    background-color: azure;
+    cursor: pointer;
+    color: black;
+    
+}
+.navlink{
+
+display: flex;
+align-items: center;
+gap :18px;
+padding-right: 20px;
+
+}
+ul{
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.showcase{
+    border: 2px;
+    padding: 80px;
+    display: flex;
+    align-items: center;
+gap: 300px;
+   border-color: black;
+   margin-top: 40px;
+   background-color: beige
+}
+.show1{
+margin: 20px;
+    padding: 20px;
+    border: 2px;
+    border-color: green;
+}
+.name2{
+    margin-left: 30px;
+     background-color: maroon;
+     color: white;
+     font-size: larger;
+     border: 0;
+     padding: 10px;
+     margin: 20px
+ 
+ 
+ }
+ .name2:hover{
+     background-color: azure;
+     cursor: pointer;
+     color: black;
+     
+ }
+  .img .imgg {
+width: 350px;
+border-radius: 60px;
+
+ }
+ .imgg{
+    box-shadow: 5px 5px 10px;
+ }
+ .font-sec{
+
+    padding: 30px;
+ }
+
+ .page-2{
+    background-color: beige;
+    margin: 00px;
+     
+    padding-top: 100px;
+    padding-left: 300px;
+    padding-right: 400px;
+    padding-bottom: 100px;
+
+    display: flex;
+    flex-direction: column;
+    padding-right: 400px;
+ }
+ .page2-1{
+padding-top: 80px;
+padding-right: 200px;
+padding-bottom: 80px;
+    display: flex;
+    gap: 50px;
+   
+  
+ }
+ .c{
+    border: 2px;
+  background-color: aliceblue;
+  padding: 80px;
+  border-radius: 20px;
+  box-shadow: 5px 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+ }
+ .c1{
+    border: 2px;
+  background-color: wheat ;
+  padding: 80px;
+  border-radius: 20px;
+  box-shadow: 5px 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+ }
+ .bio
+ {
+    border: 2px;
+    padding: 200px;
+    background-color: beige;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ font-size: 20px;
+
+ }
+ .font-sec{
+    display: flex;
+    padding-left:550px ;
+    padding-top: 150px;
+background-color: beige;
+padding-bottom: 200px;
+
+
+ }
+
+ 
+ .name3{
+    margin-left: 150px;
+     background-color: maroon;
+     color: white;
+     font-size: larger;
+     border: 0;
+     padding: 10px;
+     
+ 
+ 
+ }
+ .name3:hover{
+     background-color: azure;
+     cursor: pointer;
+     color: black;
+     
+ }
+ .formdiv{
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 18px;
+
+
+ }
+ .mail{
+
+
+    padding-left: 22px;
+ }
+
+ .footer{
+
+    background-color: black;
+    color: azure;
+    padding: 100px;
+ }
+
+ .showbio{
+
+font-size: larger;
+
+
+ }
+ .front{
+    margin: 20px;
+background-color: white;
+display: flex;
+flex-direction: column;
+gap: 5px;
+width: 250px;
+box-shadow: 2px 2px 2px 2px;
+
+
+
+ }
+ 
+ .rare{
+    
+
+    display: flex;
+    align-items: center;
+    gap : 10px;
+    margin-bottom: -10px;
+    
+     }
+     .imge img {
+        width: 40px;
+        border-radius: 50%;
+
+
+     }
+     .low{
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+
+     }
+     .but{
+background-color: dodgerblue;
+color: white;
+padding: 10px;
+
+        
+     }
+     .main
+     {
+       
+display: flex;
+
+
+
+     }
+     
+.yout{
+ display: flex;
+ background-color: black;
+ padding-top: 20px;
+ padding-bottom: 20px;
+
+
+}
+.yout2{
+    color: white;
+
+  margin-left: 20px;
+
+}
+.bod{
+
+    background-color: black;
+}
+
+.imgee {
+    background-color: black;
+   max-width: 85px;
+}
+.imgee img{
+
+width: 85px;
+border-radius: 100%;
+
+
+}
